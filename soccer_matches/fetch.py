@@ -43,8 +43,17 @@ def fetch_matches(event: str) -> List[Dict[str, str]]:
         cells = tr.find_all("td")
         if not cells:
             continue
-        row = {headers[i] if i < len(headers) else str(i): cell.get_text(strip=True)
-               for i, cell in enumerate(cells)}
+
+        expanded_cells = []
+        for cell in cells:
+            colspan = int(cell.get("colspan", 1))
+            text = cell.get_text(strip=True)
+            expanded_cells.extend([text] * colspan)
+
+        row = {
+            headers[i] if i < len(headers) else str(i): value
+            for i, value in enumerate(expanded_cells)
+        }
         rows.append(row)
     return rows
 

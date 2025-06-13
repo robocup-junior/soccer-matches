@@ -1,7 +1,8 @@
 # Soccer Matches Extractor
 
 This project scrapes soccer match information from `https://catigoal.com/{event}/matches` and
-stores the data as JSON.
+stores the data as JSON. The parser respects `colspan` attributes on both header and data
+cells so tables are accurately mapped to JSON.
 
 ## Setup
 

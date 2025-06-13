@@ -1,0 +1,19 @@
+[project]
+name = "soccer_matches"
+version = "0.1.0"
+description = "Scrape soccer match data from catigoal.com"
+authors = [
+    { name = "Example Author", email = "author@example.com" }
+]
+requires-python = ">=3.8"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "pyyaml"
+]
+
+[project.scripts]
+fetch-matches = "soccer_matches.fetch:main"
+
+[tool.uv]
+# uv specific config if needed

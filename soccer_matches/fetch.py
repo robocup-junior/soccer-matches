@@ -37,7 +37,11 @@ def fetch_matches(event: str) -> List[Dict[str, str]]:
     for th in table.find_all("th"):
         colspan = int(th.get("colspan", 1))
         text = th.get_text(strip=True)
-        headers.extend([text] * colspan)
+        if colspan > 1:
+            for i in range(1, colspan + 1):
+                headers.append(f"{text}_{i}")
+        else:
+            headers.append(text)
     rows = []
     for tr in table.find_all("tr"):
         cells = tr.find_all("td")

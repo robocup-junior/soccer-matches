@@ -2,7 +2,8 @@
 
 This project scrapes soccer match information from `https://catigoal.com/{event}/matches` and
 stores the data as JSON. The parser respects `colspan` attributes on both header and data
-cells so tables are accurately mapped to JSON.
+cells so tables are accurately mapped to JSON. When a header cell spans multiple columns,
+each column is named sequentially (e.g. `Teams_1`, `Teams_2`, `Teams_3`).
 
 ## Setup
 

@@ -10,12 +10,6 @@ each column is named sequentially (e.g. `Teams_1`, `Teams_2`, `Teams_3`).
 Install dependencies with [uv](https://github.com/astral-sh/uv):
 
 ```bash
-uv pip install -r requirements.txt
-```
-
-Or using `uv` directly with the `pyproject.toml`:
-
-```bash
 uv pip install -e .
 ```
 

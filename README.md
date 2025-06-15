@@ -10,7 +10,7 @@ each column is named sequentially (e.g. `Teams_1`, `Teams_2`, `Teams_3`).
 Install dependencies with [uv](https://github.com/astral-sh/uv):
 
 ```bash
-uv pip install -e .
+uv sync
 ```
 
 ## Configuration
@@ -28,13 +28,13 @@ events:
 Run the fetcher to download match tables and store them under `data/{event}/matches.json`:
 
 ```bash
-python -m soccer_matches.fetch
+uv run python -m soccer_matches.fetch
 ```
 
 Alternatively specify events via an environment variable:
 
 ```bash
-EVENTS=RCJE2025 python -m soccer_matches.fetch
+EVENTS=RCJE2025 uv run python -m soccer_matches.fetch
 ```
 
 Note that access to `catigoal.com` may require an internet connection.

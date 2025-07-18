@@ -945,8 +945,8 @@
     "Teams_1": "Lovbot Legends",
     "Teams_2": ":",
     "Teams_3": "Munako Aegis",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "4 :\n                        6",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "132",
@@ -958,8 +958,8 @@
     "Teams_1": "Ikaro",
     "Teams_2": ":",
     "Teams_3": "AIR",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "3 :\n                        12",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "133",
@@ -971,8 +971,8 @@
     "Teams_1": "Mushrooms",
     "Teams_2": ":",
     "Teams_3": "Apex",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "2 :\n                        12",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "134",
@@ -984,8 +984,8 @@
     "Teams_1": "ETC autoPrikratki",
     "Teams_2": ":",
     "Teams_3": "Hyperion",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "15 :\n                        5",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "135",
@@ -997,8 +997,8 @@
     "Teams_1": "UGAMM-Soccer",
     "Teams_2": ":",
     "Teams_3": "Mathimazierer",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "3 :\n                        6",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "136",
@@ -1010,8 +1010,8 @@
     "Teams_1": "TAM-EUROPE TSC-FootBot",
     "Teams_2": ":",
     "Teams_3": "chaBots Phoenix",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "12 :\n                        2",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "137",
@@ -1023,8 +1023,8 @@
     "Teams_1": "Lovbot Dynamics",
     "Teams_2": ":",
     "Teams_3": "RoboNYC",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "6 :\n                        2",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "243",
@@ -1075,8 +1075,8 @@
     "Teams_1": "Roboticus",
     "Teams_2": ":",
     "Teams_3": "AutoBots",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "9 :\n                        2",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "139",
@@ -1088,8 +1088,8 @@
     "Teams_1": "Crestwood",
     "Teams_2": ":",
     "Teams_3": "SESI Biotech",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "2 :\n                        8",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "140",
@@ -1101,8 +1101,8 @@
     "Teams_1": "VVS Ballers",
     "Teams_2": ":",
     "Teams_3": "BullBots",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "0 :\n                        4",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "141",
@@ -1114,8 +1114,8 @@
     "Teams_1": "LARES",
     "Teams_2": ":",
     "Teams_3": "UAE_SL_1",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "2 :\n                        5",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "48",
@@ -1545,19 +1545,6 @@
     "Teams_3": "Cafe com Byte Voyager",
     "Goals": "-:-",
     "Points": "-:-"
-  },
-  {
-    "#": "68",
-    "League": "Open",
-    "Stage": "SwissR5",
-    "Group": "-",
-    "Starts": "18.07.2025 11:00",
-    "Field": "Field 07",
-    "Teams_1": "Aperture Open",
-    "Teams_2": ":",
-    "Teams_3": "free from play",
-    "Goals": "10 :\n                        0",
-    "Points": "3 :\n                        0"
   },
   {
     "#": "155",
@@ -2934,8 +2921,8 @@
     "Teams_1": "Ebrahim Cactus",
     "Teams_2": ":",
     "Teams_3": "free from play",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "0 :\n                        0",
+    "Points": "0 :\n                        0"
   },
   {
     "#": "154",
@@ -2975,6 +2962,19 @@
     "Teams_3": "not seeded",
     "Goals": "-:-",
     "Points": "-:-"
+  },
+  {
+    "#": "68",
+    "League": "Open",
+    "Stage": "SwissR5",
+    "Group": "-",
+    "Starts": "-",
+    "Field": "-",
+    "Teams_1": "Aperture Open",
+    "Teams_2": ":",
+    "Teams_3": "free from play",
+    "Goals": "10 :\n                        0",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "188",

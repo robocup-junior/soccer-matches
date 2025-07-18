@@ -1296,8 +1296,8 @@
     "Teams_1": "Munako Aegis",
     "Teams_2": ":",
     "Teams_3": "Apex",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "10 :\n                        2",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "144",
@@ -1309,8 +1309,8 @@
     "Teams_1": "AIR",
     "Teams_2": ":",
     "Teams_3": "Lovbot Legends",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "1 :\n                        7",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "145",
@@ -1322,8 +1322,8 @@
     "Teams_1": "ETC autoPrikratki",
     "Teams_2": ":",
     "Teams_3": "TAM-EUROPE TSC-FootBot",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "3 :\n                        6",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "146",
@@ -1335,8 +1335,8 @@
     "Teams_1": "Mathimazierer",
     "Teams_2": ":",
     "Teams_3": "Ikaro",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "7 :\n                        10",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "147",
@@ -1348,8 +1348,8 @@
     "Teams_1": "Mushrooms",
     "Teams_2": ":",
     "Teams_3": "Lovbot Dynamics",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "6 :\n                        3",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "148",
@@ -1361,8 +1361,8 @@
     "Teams_1": "UGAMM-Soccer",
     "Teams_2": ":",
     "Teams_3": "Roboticus",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "11 :\n                        2",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "149",
@@ -1374,8 +1374,8 @@
     "Teams_1": "Hyperion",
     "Teams_2": ":",
     "Teams_3": "SESI Biotech",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "10 :\n                        0",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "150",
@@ -1387,8 +1387,8 @@
     "Teams_1": "chaBots Phoenix",
     "Teams_2": ":",
     "Teams_3": "RoboNYC",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "6 :\n                        10",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "151",
@@ -1400,8 +1400,8 @@
     "Teams_1": "UAE_SL_1",
     "Teams_2": ":",
     "Teams_3": "AutoBots",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "10 :\n                        2",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "152",
@@ -1413,8 +1413,8 @@
     "Teams_1": "BullBots",
     "Teams_2": ":",
     "Teams_3": "Crestwood",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "7 :\n                        6",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "153",
@@ -1426,8 +1426,8 @@
     "Teams_1": "VVS Ballers",
     "Teams_2": ":",
     "Teams_3": "LARES",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "0 :\n                        10",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "59",
@@ -1439,8 +1439,8 @@
     "Teams_1": "LNX Robots",
     "Teams_2": ":",
     "Teams_3": "Team Faabs",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "2 :\n                        12",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "60",
@@ -1465,8 +1465,8 @@
     "Teams_1": "ZG 24 Robotics",
     "Teams_2": ":",
     "Teams_3": "Sadr United",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "13 :\n                        6",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "62",
@@ -1553,9 +1553,9 @@
     "Group": "-",
     "Starts": "18.07.2025 11:40",
     "Field": "Field 01",
-    "Teams_1": "not seeded",
+    "Teams_1": "Munako Aegis",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "TAM-EUROPE TSC-FootBot",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1566,9 +1566,9 @@
     "Group": "-",
     "Starts": "18.07.2025 11:40",
     "Field": "Field 02",
-    "Teams_1": "not seeded",
+    "Teams_1": "Lovbot Legends",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Ikaro",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1579,9 +1579,9 @@
     "Group": "-",
     "Starts": "18.07.2025 11:40",
     "Field": "Field 03",
-    "Teams_1": "not seeded",
+    "Teams_1": "Mushrooms",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "AIR",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1592,9 +1592,9 @@
     "Group": "-",
     "Starts": "18.07.2025 11:40",
     "Field": "Field 04",
-    "Teams_1": "not seeded",
+    "Teams_1": "Apex",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "ETC autoPrikratki",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1605,9 +1605,9 @@
     "Group": "-",
     "Starts": "18.07.2025 11:40",
     "Field": "Field 05",
-    "Teams_1": "not seeded",
+    "Teams_1": "UGAMM-Soccer",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Hyperion",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1618,9 +1618,9 @@
     "Group": "-",
     "Starts": "18.07.2025 11:40",
     "Field": "Field 06",
-    "Teams_1": "not seeded",
+    "Teams_1": "Mathimazierer",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "UAE_SL_1",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1631,9 +1631,9 @@
     "Group": "-",
     "Starts": "18.07.2025 11:40",
     "Field": "Field 07",
-    "Teams_1": "not seeded",
+    "Teams_1": "BullBots",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Lovbot Dynamics",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1683,9 +1683,9 @@
     "Group": "-",
     "Starts": "18.07.2025 12:20",
     "Field": "Field 01",
-    "Teams_1": "not seeded",
+    "Teams_1": "RoboNYC",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Roboticus",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1696,9 +1696,9 @@
     "Group": "-",
     "Starts": "18.07.2025 12:20",
     "Field": "Field 02",
-    "Teams_1": "not seeded",
+    "Teams_1": "LARES",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "SESI Biotech",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1709,9 +1709,9 @@
     "Group": "-",
     "Starts": "18.07.2025 12:20",
     "Field": "Field 03",
-    "Teams_1": "not seeded",
+    "Teams_1": "chaBots Phoenix",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Crestwood",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -1722,9 +1722,9 @@
     "Group": "-",
     "Starts": "18.07.2025 12:20",
     "Field": "Field 04",
-    "Teams_1": "not seeded",
+    "Teams_1": "AutoBots",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "VVS Ballers",
     "Goals": "-:-",
     "Points": "-:-"
   },

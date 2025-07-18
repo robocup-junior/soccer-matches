@@ -1504,7 +1504,7 @@
     "Teams_1": "MARVEL",
     "Teams_2": ":",
     "Teams_3": "MIDAS RBL",
-    "Goals": "18 :\n                        6",
+    "Goals": "16 :\n                        6",
     "Points": "3 :\n                        0"
   },
   {
@@ -1517,7 +1517,7 @@
     "Teams_1": "MegaHertz",
     "Teams_2": ":",
     "Teams_3": "Tachyon",
-    "Goals": "18 :\n                        8",
+    "Goals": "16 :\n                        8",
     "Points": "3 :\n                        0"
   },
   {
@@ -1831,6 +1831,19 @@
     "Teams_3": "Aperture Open",
     "Goals": "10 :\n                        0",
     "Points": "3 :\n                        0"
+  },
+  {
+    "#": "78",
+    "League": "Open",
+    "Stage": "SwissR6",
+    "Group": "-",
+    "Starts": "18.07.2025 13:00",
+    "Field": "Field 06",
+    "Teams_1": "Tachyon",
+    "Teams_2": ":",
+    "Teams_3": "Millennium Xelerator",
+    "Goals": "4 :\n                        4",
+    "Points": "1 :\n                        1"
   },
   {
     "#": "79",
@@ -2151,9 +2164,9 @@
     "Group": "-",
     "Starts": "18.07.2025 15:40",
     "Field": "Field 05",
-    "Teams_1": "not seeded",
+    "Teams_1": "ZG 24 Robotics",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Lovbot Thunder",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2164,9 +2177,9 @@
     "Group": "-",
     "Starts": "18.07.2025 15:40",
     "Field": "Field 06",
-    "Teams_1": "not seeded",
+    "Teams_1": "Gloves",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Team Faabs",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2177,9 +2190,9 @@
     "Group": "-",
     "Starts": "18.07.2025 15:40",
     "Field": "Field 07",
-    "Teams_1": "not seeded",
+    "Teams_1": "Lovbot Altrons",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "EMM-Soccer",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2190,9 +2203,9 @@
     "Group": "-",
     "Starts": "18.07.2025 16:20",
     "Field": "Field 01",
-    "Teams_1": "not seeded",
+    "Teams_1": "LNX Robots",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "HIKARI",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2203,9 +2216,9 @@
     "Group": "-",
     "Starts": "18.07.2025 16:20",
     "Field": "Field 02",
-    "Teams_1": "not seeded",
+    "Teams_1": "MARVEL",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Sadr United",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2216,9 +2229,9 @@
     "Group": "-",
     "Starts": "18.07.2025 16:20",
     "Field": "Field 03",
-    "Teams_1": "not seeded",
+    "Teams_1": "Reset",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "MIDAS RBL",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2229,9 +2242,9 @@
     "Group": "-",
     "Starts": "18.07.2025 16:20",
     "Field": "Field 04",
-    "Teams_1": "not seeded",
+    "Teams_1": "MegaHertz",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Team Elite",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2242,9 +2255,9 @@
     "Group": "-",
     "Starts": "18.07.2025 16:20",
     "Field": "Field 05",
-    "Teams_1": "not seeded",
+    "Teams_1": "TPA-iPES",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Tachyon",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2255,9 +2268,9 @@
     "Group": "-",
     "Starts": "18.07.2025 16:20",
     "Field": "Field 06",
-    "Teams_1": "not seeded",
+    "Teams_1": "Cafe com Byte Voyager",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Aperture Open",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2268,9 +2281,9 @@
     "Group": "-",
     "Starts": "18.07.2025 16:20",
     "Field": "Field 07",
-    "Teams_1": "not seeded",
+    "Teams_1": "Millennium Xelerator",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "free from play",
     "Goals": "-:-",
     "Points": "-:-"
   },

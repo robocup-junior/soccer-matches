@@ -2093,19 +2093,6 @@
     "Points": "-:-"
   },
   {
-    "#": "254",
-    "League": "Open Interview",
-    "Stage": "Interview 5",
-    "Group": "-",
-    "Starts": "18.07.2025 15:00",
-    "Field": "Interview",
-    "Teams_1": "> Sadr United <",
-    "Teams_2": ":",
-    "Teams_3": "INTERVIEW",
-    "Goals": "-:-",
-    "Points": "-:-"
-  },
-  {
     "#": "174",
     "League": "Lightweight",
     "Stage": "SwissR7",
@@ -2375,8 +2362,8 @@
     "Teams_1": "Munako Aegis",
     "Teams_2": ":",
     "Teams_3": "Mathimazierer",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "12 :\n                        2",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "180",
@@ -2388,8 +2375,8 @@
     "Teams_1": "Lovbot Legends",
     "Teams_2": ":",
     "Teams_3": "AIR",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "13 :\n                        3",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "92",
@@ -2401,8 +2388,8 @@
     "Teams_1": "ZG 24 Robotics",
     "Teams_2": ":",
     "Teams_3": "LNX Robots",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "14 :\n                        8",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "93",
@@ -2414,8 +2401,8 @@
     "Teams_1": "Team Faabs",
     "Teams_2": ":",
     "Teams_3": "Lovbot Thunder",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "5 :\n                        7",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "181",
@@ -2424,9 +2411,9 @@
     "Group": "1. Set",
     "Starts": "19.07.2025 09:40",
     "Field": "Field 01",
-    "Teams_1": "not seeded",
+    "Teams_1": "Munako Aegis",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Lovbot Legends",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2437,9 +2424,9 @@
     "Group": "2. Set",
     "Starts": "19.07.2025 09:40",
     "Field": "Field 02",
-    "Teams_1": "not seeded",
+    "Teams_1": "Mathimazierer",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "AIR",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2450,9 +2437,9 @@
     "Group": "1. Set",
     "Starts": "19.07.2025 10:20",
     "Field": "Field 01",
-    "Teams_1": "not seeded",
+    "Teams_1": "ZG 24 Robotics",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Lovbot Thunder",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2463,9 +2450,9 @@
     "Group": "2. Set",
     "Starts": "19.07.2025 10:20",
     "Field": "Field 02",
-    "Teams_1": "not seeded",
+    "Teams_1": "LNX Robots",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "Team Faabs",
     "Goals": "-:-",
     "Points": "-:-"
   },
@@ -2535,6 +2522,19 @@
     "Points": "-:-"
   },
   {
+    "#": "254",
+    "League": "Open Interview",
+    "Stage": "Interview 5",
+    "Group": "-",
+    "Starts": "19.07.2025 13:00",
+    "Field": "Interview",
+    "Teams_1": "> Sadr United <",
+    "Teams_2": ":",
+    "Teams_3": "INTERVIEW",
+    "Goals": "-:-",
+    "Points": "-:-"
+  },
+  {
     "#": "258",
     "League": "Open Interview",
     "Stage": "Interview 7",
@@ -2555,19 +2555,6 @@
     "Starts": "19.07.2025 13:00",
     "Field": "Interview",
     "Teams_1": "> Team Faabs <",
-    "Teams_2": ":",
-    "Teams_3": "INTERVIEW",
-    "Goals": "-:-",
-    "Points": "-:-"
-  },
-  {
-    "#": "260",
-    "League": "Open Interview",
-    "Stage": "Interview 7",
-    "Group": "-",
-    "Starts": "19.07.2025 13:00",
-    "Field": "Interview",
-    "Teams_1": "free from play",
     "Teams_2": ":",
     "Teams_3": "INTERVIEW",
     "Goals": "-:-",
@@ -3001,6 +2988,19 @@
     "Teams_3": "free from play",
     "Goals": "10 :\n                        0",
     "Points": "3 :\n                        0"
+  },
+  {
+    "#": "260",
+    "League": "Open Interview",
+    "Stage": "Interview 7",
+    "Group": "-",
+    "Starts": "-",
+    "Field": "-",
+    "Teams_1": "free from play",
+    "Teams_2": ":",
+    "Teams_3": "INTERVIEW",
+    "Goals": "-:-",
+    "Points": "-:-"
   },
   {
     "#": "188",

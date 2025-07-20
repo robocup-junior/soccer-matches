@@ -2791,8 +2791,8 @@
     "Teams_1": "Open-Superteam-03",
     "Teams_2": ":",
     "Teams_3": "Open-Superteam-01",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "3 :\n                        5",
+    "Points": "0 :\n                        3"
   },
   {
     "#": "210",
@@ -2804,8 +2804,8 @@
     "Teams_1": "Open-Superteam-05",
     "Teams_2": ":",
     "Teams_3": "Open-Superteam-04",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "5 :\n                        0",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "191",
@@ -2817,8 +2817,8 @@
     "Teams_1": "LW-Superteam-01",
     "Teams_2": ":",
     "Teams_3": "LW-Superteam-03",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "2 :\n                        2",
+    "Points": "1 :\n                        1"
   },
   {
     "#": "197",
@@ -2830,8 +2830,8 @@
     "Teams_1": "LW-Superteam-02",
     "Teams_2": ":",
     "Teams_3": "LW-Superteam-04",
-    "Goals": "-:-",
-    "Points": "-:-"
+    "Goals": "2 :\n                        0",
+    "Points": "3 :\n                        0"
   },
   {
     "#": "212",
@@ -2866,9 +2866,9 @@
     "Group": "-",
     "Starts": "20.07.2025 11:00",
     "Field": "Superteam 2",
-    "Teams_1": "not seeded",
+    "Teams_1": "LW-Superteam-01",
     "Teams_2": ":",
-    "Teams_3": "not seeded",
+    "Teams_3": "LW-Superteam-02",
     "Goals": "-:-",
     "Points": "-:-"
   },
